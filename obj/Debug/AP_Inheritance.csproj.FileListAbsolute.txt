@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Inheritance\AP_Inheritance\bin\Debug\AP_Inheritance.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Inheritance\AP_Inheritance\bin\Debug\AP_Inheritance.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Inheritance\AP_Inheritance\bin\Debug\AP_Inheritance.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Inheritance\AP_Inheritance\obj\Debug\AP_Inheritance.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Inheritance\AP_Inheritance\obj\Debug\AP_Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Inheritance\AP_Inheritance\obj\Debug\AP_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Inheritance\AP_Inheritance\obj\Debug\AP_Inheritance.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Inheritance\AP_Inheritance\obj\Debug\AP_Inheritance.pdb
